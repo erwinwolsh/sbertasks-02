@@ -53,7 +53,7 @@ JSON.parse(localStorage.getItem('items')) || []
      }   
   }
 
-  return (
+  return (  
     <div className="App">
       <div className="wrapper">
         <input
